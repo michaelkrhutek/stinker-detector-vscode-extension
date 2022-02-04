@@ -3,6 +3,13 @@
   "displayName": "Detektor smradu",
   "description": "",
   "version": "0.0.1",
+  "repository": {
+	"type": "git",
+    "url": "https://github.com/michaelkrhutek/stinker-detector-vscode-extension"
+  },
+  "author": "Michael Krhůtek <michael.krhutek@gmail.com>",
+  "publisher": "michaelkrhutek",
+  "licence": "MIT",
   "engines": {
     "vscode": "^1.64.0"
   },
